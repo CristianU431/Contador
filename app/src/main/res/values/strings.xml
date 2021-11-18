@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contador</string>
+    
+    <string name="tv_Contador">Contador</string>
+    <string name="btn_Incrementa">Incrementa</string>
+    <string name="btn_Decrementa">Decrementa</string>
+    <string name="btn_Resetear">Resetear</string>
+</resources>
